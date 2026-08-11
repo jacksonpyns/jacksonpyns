@@ -1,113 +1,194 @@
-# 👋 Olá! Eu sou Jackson Lima
+<div align="center">
+
+# 👨‍💻 Jackson Lima
+
+### `Desenvolvedor em formação | ADS`
+
+💻 Transformando ideias em código
+🚀 Aprendendo. Construindo. Evoluindo.
+
+<br>
+
+<a href="https://github.com/jacksonpyns">
+  <img src="https://img.shields.io/github/followers/jacksonpyns?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/jacksonpyns?tab=repositories">
+  <img src="https://img.shields.io/github/stars/jacksonpyns?label=Estrelas&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🧠 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-💻 Desenvolvedor em formação, com foco em **desenvolvimento de software**
-🚀 Sempre buscando aprender novas tecnologias e transformar ideias em projetos.
+
+💻 Desenvolvedor em formação, atualmente focado em **Java, Python e desenvolvimento web**.
+
+🚀 Gosto de aprender através da prática, criando projetos e buscando transformar conceitos de programação em aplicações reais.
+
+📚 Atualmente estou aprofundando meus conhecimentos em **Programação Orientada a Objetos, desenvolvimento de sistemas, JavaScript, Git e GitHub**.
+
+🎯 Meu objetivo é evoluir constantemente como desenvolvedor e construir projetos cada vez mais completos.
 
 ---
 
-## 🧑‍💻 Sobre mim
+## ⚡ Tech Stack
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia.
+### 💻 Linguagens
 
-Tenho conhecimentos em **Java e Python** e atualmente estou aprofundando meus estudos em **JavaScript, HTML e CSS**, além de conceitos de desenvolvimento de software, Git e GitHub.
+<div align="center">
 
-Gosto de aprender na prática, criando projetos e resolvendo problemas através da programação.
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 
-🎯 **Objetivo:** evoluir como desenvolvedor e conquistar novas experiências na área de tecnologia.
+</div>
+
+### 🌐 Web
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+</div>
+
+### 🛠️ Ferramentas & Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,eclipse,idea,pycharm,vscode,figma" />
+
+</div>
 
 ---
 
-## 🚀 Tecnologias
+## 🔥 Minha jornada
 
-### Linguagens
+```text
+                                                        🚀 DESENVOLVIMENTO
+                                                                   │
+                                                                   ▼
+                                                           ┌───────────────┐
+                                                           │    Java ☕    │
+                                                           └───────┬───────┘
+                                                                   │
+                                                                   ▼
+                                                           ┌───────────────┐
+                                                           │   Python 🐍   │
+                                                           └───────┬───────┘
+                                                                   │
+                                                                   ▼
+                                                           ┌───────────────┐
+                                                           │ JavaScript 🌐 │
+                                                           └───────┬───────┘
+                                                                   │
+                                                                   ▼
+                                                           ┌───────────────┐
+                                                           │  Projetos 🗂️  │
+                                                           └───────┬───────┘
+                                                                   │
+                                                                   ▼
+                                                           ┌───────────────┐
+                                                           │   Evolução 🚀 │
+                                                           └───────────────┘
+```
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+---
 
-### Desenvolvimento Web
+### ☕ Projetos em Java
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+Projetos desenvolvidos para praticar:
 
-### Ferramentas
+* Programação Orientada a Objetos
+* Classes e objetos
+* Encapsulamento
+* Estruturas de dados
+* Lógica de programação
+* Boas práticas de desenvolvimento
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+---
+
+### 🐍 Projetos em Python
+
+Projetos e exercícios desenvolvidos durante meus estudos para praticar:
+
+* Lógica de programação
+* Funções
+* Listas e dicionários
+* Estruturas de repetição
+* Manipulação de dados
+* Testes
+* Organização de código
 
 ---
 
 ## 📚 Atualmente estudando
 
-* ☕ Java
-* 🐍 Python
-* 🌐 JavaScript
-* 🎨 HTML5 e CSS3
-* 🧩 Programação Orientada a Objetos
-* 🔧 Git e GitHub
-* 🏗️ Desenvolvimento de sistemas
-* 🤖 Inteligência Artificial e Prompt Engineering
+<div align="center">
+
+|         Tecnologia         |     Status     |
+| :------------------------: | :------------: |
+|           ☕ Java           |  🟢 Estudando  |
+|          🐍 Python         |  🟢 Estudando  |
+|        🌐 JavaScript       | 🟡 Aprimorando |
+|            HTML5           |  🟢 Estudando  |
+|            CSS3            |  🟢 Estudando  |
+|       🔧 Git & GitHub      |  🟢 Praticando |
+|           🧩 POO           |  🟢 Estudando  |
+| 🤖 IA & Prompt Engineering |  🟢 Explorando |
+
+</div>
 
 ---
 
-## 🚀 Projetos
+## 🎯 Roadmap
 
-Aqui você encontrará projetos desenvolvidos durante meus estudos e também projetos pessoais, com o objetivo de colocar em prática meus conhecimentos e acompanhar minha evolução como desenvolvedor.
-
-### 🔹 Projetos em destaque
-
-📌 **Sistema de Gestão de Processos Digitais (SGPD)**
-Projeto acadêmico desenvolvido durante a graduação, envolvendo levantamento de requisitos, modelagem de sistemas, UML, prototipação e desenvolvimento de uma solução para gestão de processos digitais.
-
-📌 **Projetos em Python**
-Exercícios e aplicações desenvolvidas para praticar lógica de programação, estruturas de dados, funções, orientação a objetos e resolução de problemas.
-
-📌 **Projetos em Java**
-Projetos desenvolvidos para praticar fundamentos da linguagem, programação orientada a objetos e boas práticas de desenvolvimento.
-
-> 🔨 Sempre em constante evolução. Novos projetos serão adicionados conforme avanço nos meus estudos.
+* [x] Aprender fundamentos de programação
+* [x] Começar com Java
+* [x] Começar com Python
+* [x] Aprender Git e GitHub
+* [x] Iniciar estudos em JavaScript
+* [ ] Desenvolver APIs
+* [ ] Aprofundar bancos de dados
+* [ ] Aprender Spring Boot
+* [ ] Desenvolver projetos Full Stack
+* [ ] Contribuir com Open Source
+* [ ] Construir projetos profissionais
 
 ---
 
-## 📈 Minha evolução
+## 💡 Filosofia
 
-Estou utilizando este perfil para documentar minha jornada na programação, compartilhar projetos e acompanhar minha evolução ao longo do tempo.
+<div align="center">
 
-```text
-Aprender → Praticar → Criar → Melhorar → Repetir
-```
+> **"O código de hoje é melhor que o código que você ainda não escreveu."**
 
----
+### `Learn → Code → Build → Improve → Repeat`
 
-## 🎯 Objetivos
-
-* [ ] Aprofundar meus conhecimentos em Java
-* [ ] Evoluir em Python
-* [ ] Dominar JavaScript
-* [ ] Desenvolver projetos maiores e mais completos
-* [ ] Aprender desenvolvimento de APIs
-* [ ] Aprofundar conhecimentos em bancos de dados
-* [ ] Aprender frameworks utilizados no mercado
-* [ ] Contribuir para projetos Open Source
-* [ ] Construir um portfólio cada vez mais completo
+</div>
 
 ---
 
-## 📫 Contatos:
+## 📫 Entre em contato
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/jacksonpy](https://www.linkedin.com/in/jacksonpy)
+<div align="center">
 
-📧 **E-mail:** [limajackson115@gmail.com](limajackson115@gmail.com)
+<a href="https://github.com/jacksonpyns">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🌐 **GitHub:** [github.com/jacksonpyns](https://github.com/jacksonpyns)
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-⭐ Se algum dos meus projetos for interessante para você, fique à vontade para explorar meus repositórios!
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+**Sempre aprendendo. Sempre construindo. 🚀**
+
+</div>
