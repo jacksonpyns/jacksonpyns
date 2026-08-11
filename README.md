@@ -108,22 +108,6 @@ Projetos e exercícios desenvolvidos durante meus estudos para praticar:
 
 ---
 
-## 🎯 Roadmap
-
-* [x] Aprender fundamentos de programação
-* [x] Começar com Java
-* [x] Começar com Python
-* [x] Aprender Git e GitHub
-* [x] Iniciar estudos em JavaScript
-* [ ] Desenvolver APIs
-* [ ] Aprofundar bancos de dados
-* [ ] Aprender Spring Boot
-* [ ] Desenvolver projetos Full Stack
-* [ ] Contribuir com Open Source
-* [ ] Construir projetos profissionais
-
----
-
 ## 💡 Filosofia
 
 <div align="center">
