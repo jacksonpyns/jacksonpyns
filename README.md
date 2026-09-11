@@ -9,13 +9,6 @@
 
 <br>
 
-<a href="https://github.com/jacksonpyns">
-  <img src="https://img.shields.io/github/followers/jacksonpyns?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/jacksonpyns?tab=repositories">
-  <img src="https://img.shields.io/github/stars/jacksonpyns?label=Estrelas&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 ---
