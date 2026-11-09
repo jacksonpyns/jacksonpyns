@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 ## 🧠 Sobre mim
 
@@ -25,31 +25,13 @@
 
 🎯 Meu objetivo é evoluir constantemente como desenvolvedor e construir projetos cada vez mais completos.
 
----
 
-## ⚡ Tech Stack
 
-### 💻 Linguagens
+##   My Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-
-</div>
-
-### 🌐 Web
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-</div>
-
-### 🛠️ Ferramentas & Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,eclipse,idea,pycharm,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,eclipse,idea,pycharm,vscode,figma" />
 
 </div>
 
@@ -63,6 +45,7 @@ Projetos desenvolvidos para praticar:
 * Classes e objetos
 * Encapsulamento
 * Estruturas de dados
+* Testes
 * Lógica de programação
 * Boas práticas de desenvolvimento
 
@@ -77,10 +60,8 @@ Projetos e exercícios desenvolvidos durante meus estudos para praticar:
 * Listas e dicionários
 * Estruturas de repetição
 * Manipulação de dados
-* Testes
 * Organização de código
 
----
 
 ## 📚 Atualmente estudando
 
@@ -99,7 +80,7 @@ Projetos e exercícios desenvolvidos durante meus estudos para praticar:
 
 </div>
 
----
+
 
 ## 💡 Filosofia
 
@@ -111,11 +92,10 @@ Projetos e exercícios desenvolvidos durante meus estudos para praticar:
 
 </div>
 
----
+
 
 ## 📫 Entre em contato
 
-<div align="center">
 
 <a href="https://github.com/jacksonpyns">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -129,9 +109,8 @@ Projetos e exercícios desenvolvidos durante meus estudos para praticar:
 <img src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
-</div>
 
----
+
 
 <div align="center">
 
